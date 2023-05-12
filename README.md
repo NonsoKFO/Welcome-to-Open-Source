@@ -54,6 +54,14 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
                     <sub><b>Ali Solanki</b></sub>
                 </a> 
             </td>
+
+             <td align="center">
+                <a href="http://linktr.ee/nonsoKFO">
+                    <img src="https://avatars.githubusercontent.com/u/129886519?s=96&v=4" width="100px;" alt="Chinonso Okafor"/>
+                    <br />
+                    <sub><b>Chinonso Okafor</b></sub>
+                </a> 
+            </td>
             <td align="center">
                 <a href="https://hsrah00.github.io/Harsh/">
                     <img src="https://avatars.githubusercontent.com/u/90195370?v=4" width="100px;" alt="Harsh Pandey"/>
